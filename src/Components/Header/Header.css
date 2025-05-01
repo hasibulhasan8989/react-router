@@ -1,0 +1,8 @@
+.mr{
+  margin-right: 16px; /* You can adjust the value as needed */
+}
+.active{
+  color: blue;
+  font-weight: bold;
+  border-bottom: 2px solid blue;
+}

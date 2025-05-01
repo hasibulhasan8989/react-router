@@ -1,0 +1,5 @@
+.us{
+display :grid;
+grid-template-col:repeat(3,1fr);
+gap:10px;
+}
